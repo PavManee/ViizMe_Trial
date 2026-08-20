@@ -1,83 +1,11 @@
 [
   {
-    "name": "240310 YUJIN",
-    "link": "https://youtu.be/fzE_x9hJi1o",
-    "tag": [
-      "IVE"
-    ],
-    "star": 4
-  },
-  {
-    "name": "260525 EUNCHAE",
-    "link": "https://youtu.be/g27FaImgRls",
-    "tag": [
-      "LE SSERAFIM"
-    ],
-    "star": 4
-  },
-  {
-    "name": "260816 LEESEO",
-    "link": "https://youtu.be/jgFzJOPeVeQ",
-    "tag": [
-      "IVE"
-    ],
-    "star": 5
-  },
-  {
-    "name": "250413 JENNIE",
-    "link": "https://youtu.be/S_kbTwvzJzo",
-    "tag": [
-      "BLACKPINK"
-    ],
-    "star": 3
-  },
-  {
-    "name": "260814 JENNIE",
-    "link": "https://youtu.be/t_jl-M8Uo1g",
-    "tag": [
-      "BLACKPINK","AUDIO ON"
-    ],
-    "star": 5
-  },
-  {
-    "name": "260814 CHAEWON",
-    "link": "https://youtu.be/2QfeCQTliT4",
-    "tag": [
-      "LE SSERAFIM"
-    ],
-    "star": 5
-  },
-  {
-    "name": "260807 NINGNING",
-    "link": "https://youtu.be/pDe8G1SbP6g",
-    "tag": [
-      "AESPA"
-    ],
-    "star": 5
-  },
-  {
-    "name": "260711 YUNJIN",
-    "link": "https://youtu.be/5scmOAfffbg",
-    "tag": [
-      "LE SSERAFIM"
-    ],
-    "star": 5
-  },
-  {
     "name": "240218 KARINA",
     "link": "https://youtu.be/XqcxhXYJqAU",
     "tag": [
       "AESPA"
     ],
     "star": 3
-  },
-  {
-    "name": "260801 JENNIE",
-    "link": "https://youtu.be/-rSS5nyVHNc",
-    "tag": [
-      "BLACKPINK"
-    ],
-    "star": 4
   },
 {
     "name": "251114 IRENE",
@@ -86,134 +14,6 @@
       "RED VELVET"
     ],
     "star": 3
-  },
-  {
-    "name": "260710 JIHYO",
-    "link": "https://youtu.be/2g-TG9km8b8",
-    "tag": [
-      "TWICE"
-    ],
-    "star": 5
-  },
-  {
-    "name": "260731 KARINA",
-    "link": "https://youtu.be/zoBe6dC7jM0",
-    "tag": [
-      "AESPA"
-    ],
-    "star": 4
-  },
-  {
-    "name": "251130 HAEWON",
-    "link": "https://youtu.be/ygt_iTgp_jE",
-    "tag": [
-      "NMIXX"
-    ],
-    "star": 4
-  },
-  {
-    "name": "251225 KAZUHA",
-    "link": "https://youtu.be/-IsuJTqf5_Y",
-    "tag": [
-      "LE SSERAFIM"
-    ],
-    "star": 4
-  },
-{
-    "name": "260809 YUNA",
-    "link": "https://youtu.be/ndv_bOhf7sM",
-    "tag": [
-      "ITZY"
-    ],
-    "star": 5
-  },
-  {
-    "name": "260809 CHAERYEONG",
-    "link": "https://youtu.be/4l0tW7mJ6-E",
-    "tag": [
-      "ITZY"
-    ],
-    "star": 5
-  },
-  {
-    "name": "260801 KEENA",
-    "link": "https://youtu.be/l1zlM6k-kDs",
-    "tag": [
-      "FIFTY FIFTY"
-    ],
-    "star": 5
-  },
-  {
-    "name": "250425 SANA",
-    "link": "https://youtu.be/sy9HxCmPVcU",
-    "tag": [
-      "TWICE"
-    ],
-    "star": 4
-  },
-  {
-    "name": "240228 YEJI",
-    "link": "https://youtu.be/XDGrR8WtP4M",
-    "tag": [
-      "ITZY"
-    ],
-    "star": 4
-  },
-  {
-    "name": "260523 SULLYOON",
-    "link": "https://youtu.be/OVb-2ZzFYNM",
-    "tag": [
-      "NMIXX"
-    ],
-    "star": 5
-  },
-  {
-    "name": "250704 YUNA",
-    "link": "https://youtu.be/h5KXJmXhLF8",
-    "tag": [
-      "ITZY"
-    ],
-    "star": 4
-  },
-  {
-    "name": "180927 SEULGI",
-    "link": "https://youtu.be/0RCjRTX544I",
-    "tag": [
-      "RED VELVET"
-    ],
-    "star": 4
-  },
-  {
-    "name": "250907 WONYOUNG",
-    "link": "https://youtu.be/Zfd2-8bzb80",
-    "tag": [
-      "IVE"
-    ],
-    "star": 5
-  },
-  {
-    "name": "230909 YUBIN",
-    "link": "https://youtu.be/SPcmvZ_Mo34",
-    "tag": [
-      "OH MY GIRL"
-    ],
-    "star": 5
-  },
-  {
-    "name": "250712 WONYOUNG",
-    "link": "https://youtu.be/AXETWSVmIis",
-    "tag": [
-      "IVE"
-    ],
-    "star": 5
-  },
-  {
-    "name": "260724 NATTY (2)",
-    "link": "https://youtu.be/D_V8ChOSQlw",
-    "tag": [
-      "KISS OF LIFE"
-    ],
-    "star": 5
   },
   {
     "name": "231225 CHAE-YOUNG",
@@ -248,60 +48,12 @@
     "star": 3
   },
   {
-    "name": "260725 KARINA",
-    "link": "https://youtu.be/X-m_EnDnvww",
-    "tag": [
-      "AESPA"
-    ],
-    "star": 4
-  },
-  {
     "name": "250706 EUNBI",
     "link": "https://youtu.be/nmKFgd9v7Bs",
     "tag": [
       "SOLOIST"
     ],
     "star": 4
-  },
-  {
-    "name": "240707 BIBI",
-    "link": "https://youtu.be/Db0vv1I_TFc",
-    "tag": [
-      "SOLOIST"
-    ],
-    "star": 5
-  },
-  {
-    "name": "250611 SHUHUA",
-    "link": "https://youtu.be/0UjhlGVdYe0",
-    "tag": [
-      "IDLE"
-    ],
-    "star": 5
-  },
-  {
-    "name": "260724 NATTY",
-    "link": "https://youtu.be/Ty8N9cU6jg4",
-    "tag": [
-      "KISS OF LIFE"
-    ],
-    "star": 5
-  },
-  {
-    "name": "250706 JISOO",
-    "link": "https://youtu.be/7UquX_xCmKA",
-    "tag": [
-      "BLACKPINK"
-    ],
-    "star": 5
-  },
-  {
-    "name": "250706 ROSé",
-    "link": "https://youtu.be/eiAwHeM6i3Q",
-    "tag": [
-      "BLACKPINK"
-    ],
-    "star": 5
   },
   {
     "name": "261031 LE SSERAFIM (4 members)",
@@ -344,100 +96,12 @@
     "star": 3
   },
   {
-    "name": "231225 YUNA",
-    "link": "https://youtu.be/f89GjM4dQwQ",
-    "tag": [
-      "ITZY"
-    ],
-    "star": 4
-  },
-  {
-    "name": "251031 WONYOUNG (2)",
-    "link": "https://youtu.be/9qMxQKZvl3M",
-    "tag": [
-      "IVE"
-    ],
-    "star": 5
-  },
-  {
-    "name": "250706 LISA",
-    "link": "https://youtu.be/rzHWy2qgAXs",
-    "tag": [
-      "BLACKPINK"
-    ],
-    "star": 5
-  },
-  {
     "name": "230811 KARINA",
     "link": "https://youtu.be/fgiRTxWUOgE",
     "tag": [
       "AESPA"
     ],
     "star": 3
-  },
-  {
-    "name": "251220 JENNIE (3)",
-    "link": "https://youtu.be/MV20Dbk4sek",
-    "tag": [
-      "BLACKPINK"
-    ],
-    "star": 5
-  },
-  {
-    "name": "260626 AHYEON",
-    "link": "https://youtu.be/3kcnTFjteas",
-    "tag": [
-      "BABYMONSTER"
-    ],
-    "star": 5
-  },
-  {
-    "name": "260710 MOMO",
-    "link": "https://youtu.be/vqSB31ryrsA",
-    "tag": [
-      "TWICE"
-    ],
-    "star": 5
-  },
-  {
-    "name": "231010 KARINA (2)",
-    "link": "https://youtu.be/sfXWrvVjgQA",
-    "tag": [
-      "AESPA"
-    ],
-    "star": 4
-  },
-  {
-    "name": "231010 KARINA (1)",
-    "link": "https://youtu.be/kJH-EbHI74s",
-    "tag": [
-      "AESPA"
-    ],
-    "star": 4
-  },
-  {
-    "name": "251220 JENNIE (2)",
-    "link": "https://youtu.be/w5vzTOM_GGU",
-    "tag": [
-      "BLACKPINK"
-    ],
-    "star": 5
-  },
-  {
-    "name": "251220 JENNIE",
-    "link": "https://youtu.be/P-tsvBzmdq0",
-    "tag": [
-      "BLACKPINK"
-    ],
-    "star": 4
-  },
-  {
-    "name": "250420 EUNCHAE",
-    "link": "https://youtu.be/4rhRPq1RS4M",
-    "tag": [
-      "LE SSERAFIM"
-    ],
-    "star": 4
   },
   {
     "name": "250817 WINTER",
@@ -454,61 +118,5 @@
       "AESPA"
     ],
     "star": 3
-  },
-  {
-    "name": "260711 CHAEWON",
-    "link": "https://youtu.be/Ip7MTmHKh-Q",
-    "tag": [
-      "LE SSERAFIM"
-    ],
-    "star": 5
-  },
-  {
-    "name": "241005 CHAERYEONG (2)",
-    "link": "https://youtu.be/lwbJpJHnhjY",
-    "tag": [
-      "ITZY"
-    ],
-    "star": 5
-  },
-  {
-    "name": "250614 SEULGI",
-    "link": "https://youtu.be/GYb6xPWdOVo",
-    "tag": [
-      "RED VELVET"
-    ],
-    "star": 5
-  },
-  {
-    "name": "221008 SHUHUA",
-    "link": "https://youtu.be/9900saCqqsA",
-    "tag": [
-      "IDLE"
-    ],
-    "star": 5
-  },
-  {
-    "name": "240530 MIYEON",
-    "link": "https://youtu.be/L5ndkPR7C44",
-    "tag": [
-      "IDLE"
-    ],
-    "star": 4
-  },
-  {
-    "name": "241005 CHAERYEONG",
-    "link": "https://youtu.be/wD-SudjXGtQ",
-    "tag": [
-      "ITZY"
-    ],
-    "star": 5
-  },
-  {
-    "name": "251031 WONYOUNG",
-    "link": "https://youtu.be/qqAk4yx6CxY",
-    "tag": [
-      "IVE"
-    ],
-    "star": 5
   }
 ]

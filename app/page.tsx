@@ -79,6 +79,7 @@ export default function Home() {
         <div className="section-head">
           <div>
             <h2>Browse videos</h2>
+            <a href="https://ganknow.com/services/104936-viizmekpop8k-all-64-videos-online-75-cheaper" className="activate-btn">Activate Full Version</a>
           </div>
           <div className="count">{filtered.length} VIDEOS</div>
         </div>

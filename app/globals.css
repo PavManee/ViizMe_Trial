@@ -276,3 +276,22 @@ footer { border-top:1px solid #1d1d1d; padding:30px 5vw; display:flex; justify-c
 @media (max-width: 450px) {
   .grid { grid-template-columns:1fr; }
 }
+.activate-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  padding: 10px 18px;
+  border-radius: 8px;
+  background: #fff;
+  color: #000;
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.activate-btn:hover {
+  transform: translateY(-1px);
+  opacity: 0.85;
+}
